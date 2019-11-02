@@ -10,7 +10,11 @@ Através de um arquivo JSON, obtemos os dados de colaboradores e serão exibidos
 - Tarefa finalizada no caminho '/concluidos/filtrar'
 - Filtro por data de finalização de tarefa, da última atualização para a primeira no caminho '/data/filtrar'.
 
-❗ Instalar node e express na pasta do projeto.
+❗ Instalar node e express na pasta do projeto ❗
+
+no cmd:
+npm install node
+npm install express
 
 Finalização do projeto em 01/11/2019 :heart:
 
