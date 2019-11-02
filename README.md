@@ -13,8 +13,8 @@ Através de um arquivo JSON, obtemos os dados de colaboradores e serão exibidos
 ❗ Instalar node e express na pasta do projeto ❗
 
 no cmd:
-npm install node
-npm install express
+- npm install node
+- npm install express
 
 Finalização do projeto em 01/11/2019 :heart:
 
